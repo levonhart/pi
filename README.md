@@ -33,7 +33,7 @@ cada fábrica deve enviar para cada cliente.
 
 - Custos de transporte das instalações para cada cliente (R$/ton):
 
-| c / f | A | B | C |
+| c \ f | A | B | C |
 |-------|---|---|---|
 | 1 | 10 | 11 | 18 |
 | 2 | 5 | 18 | 3 |
