@@ -15,21 +15,21 @@ cada fábrica deve enviar para cada cliente.
 - Conjunto N = {A, B, C} de possíveis instalaçoes;
 - Custos de manutenção das intalações (em R$/dia):
 
-| A  | B  | C  |
-|----|----|----|
-| 20 | 10 | 25 |
+| Instalação: | A  | B  | C  |
+|--------------|----|----|----|
+| Custo diário:| 20 | 10 | 25 |
 
 - Demanda dos clientes (ton/dia):
 
-| 1 | 2 | 3 |
-|---|---|---|
-| 3 | 1 | 5 |
+| cliente: | 1 | 2 | 3 |
+|-----------|---|---|---|
+| demanda:  | 3 | 1 | 5 |
 
 - Capacidade das Instalações:
 
-| 1 | 2 | 3 |
-|---|---|---|
-| 3 | 1 | 5 |
+| Instalação: | A | B | C |
+|-------------|---|---|---|
+| Capacidade: | 4 | 7 | 6 |
 
 - Custos de transporte das instalações para cada cliente (R$/ton):
 
