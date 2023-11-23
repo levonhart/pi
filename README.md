@@ -14,6 +14,7 @@ cada fábrica deve enviar para cada cliente.
 - Conjunto M = {1, 2, 3} de Clientes;
 - Conjunto N = {A, B, C} de possíveis instalaçoes;
 - Custos de manutenção das intalações (em R$/ton):
+
 | A  | B  | C  |
 |----|----|----|
 | 20 | 10 | 25 |
